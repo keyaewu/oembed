@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="8462429e-9800-4771-8a8c-60e4ced3ec8c" unique-name="config.oembed.article.type.event" name="Event page template" layout-name="oembed-config" action="remove">
+        <area name="oembed-config-area">
+            <options>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+            </options>
+            <content-ref source="ece-auto-gen" sourceid="db81086d-f481-4753-b3ac-d307d8be4157">
+                <field name="title">Page title</field>
+            </content-ref>
+            <content-ref source="ece-auto-gen" sourceid="980a0d53-4075-48b2-813f-cdc0b6ee74af">
+                <field name="title">event entries show on article page</field>
+            </content-ref>
+        </area>
+    </section-page>
+</escenic>

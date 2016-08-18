@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="7d415a86-8e9e-4e89-b1f2-4509d3e55498" unique-name="config.default.section.event" name="Event page template" layout-name="config" action="remove">
+        <options>
+            <field name="asideposition">
+                <value>right</value>
+            </field>
+            <field name="area_split">
+                <value>8_4</value>
+            </field>
+        </options>
+        <area name="outer">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+            </options>
+        </area>
+        <area name="header">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>header</value>
+                </field>
+            </options>
+        </area>
+        <area name="top">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+                <field name="showtoparea">
+                    <value>true</value>
+                </field>
+            </options>
+        </area>
+        <area name="main">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>section</value>
+                </field>
+            </options>
+        </area>
+        <area name="aside">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>aside</value>
+                </field>
+            </options>
+        </area>
+        <area name="bottom">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+                <field name="showbottomarea">
+                    <value>true</value>
+                </field>
+            </options>
+        </area>
+        <area name="footer">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>footer</value>
+                </field>
+            </options>
+        </area>
+    </section-page>
+</escenic>

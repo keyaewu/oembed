@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="01c2690a-150f-4fdc-895d-2c979efb733e" type="widget_code" state="published">
+        <section-ref unique-name="ece_incoming" home-section="true"/>
+        <section-ref unique-name="config.oembed.article"/>
+        <section-ref unique-name="config.oembed.article" home-section="true"/>
+        <section-ref unique-name="config.default.article.type.event"/>
+        <priority value="0"/>
+        <field name="title">code widget</field>
+        <field name="code">code widget</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

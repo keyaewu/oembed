@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="21b5a594-d780-42b1-9755-73f0fd518e74" type="widget_code" state="published">
+        <section-ref unique-name="config.oembed.article.type.embedYoutube" home-section="true"/>
+        <section-ref unique-name="config.default.section.ece_frontpage"/>
+        <priority value="0"/>
+        <field name="title">check</field>
+        <field name="code">&lt;h1&gt;check how it works &lt;/h1&gt;</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="video page template" source="ece-auto-gen" sourceid="195b106a-22e7-433d-9841-1ad0b588f59b" name="video page template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="7beb7818-6da2-49ef-9f2e-93f1c443b3db" unique-name="config.default.article"/>
+        <unique-name>video page template</unique-name>
+        <directory>video_page_template</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

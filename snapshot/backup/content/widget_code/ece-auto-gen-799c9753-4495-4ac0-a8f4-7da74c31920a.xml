@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="799c9753-4495-4ac0-a8f4-7da74c31920a" type="widget_code" state="published">
+        <section-ref unique-name="config.oembed.article.type.embedYoutube" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">youtube embed page title </field>
+        <field name="code">&lt;h6&gt; Youtube Embed &lt;/h6&gt;</field>
+        <field name="enableesi">false</field>
+    </content>
+</escenic>

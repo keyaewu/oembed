@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="b7268325-d84f-4de3-8c6e-bf2d2e787051" unique-name="config.oembed.article.type.videoIngest" name="Video" layout-name="config" action="remove"/>
+</escenic>

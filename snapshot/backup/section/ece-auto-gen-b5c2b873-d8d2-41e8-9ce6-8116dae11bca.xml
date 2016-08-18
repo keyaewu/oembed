@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.oembed.tag.scheme.Widget" source="ece-auto-gen" sourceid="b5c2b873-d8d2-41e8-9ce6-8116dae11bca" name="widget tag template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="3e008bd8-aa77-4b06-bf83-5b1096dafc94" unique-name="config.oembed.tag"/>
+        <unique-name>config.oembed.tag.scheme.Widget</unique-name>
+        <directory>widget_tag_template</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

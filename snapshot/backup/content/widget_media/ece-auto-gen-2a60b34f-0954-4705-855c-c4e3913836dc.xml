@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="2a60b34f-0954-4705-855c-c4e3913836dc" type="widget_media" state="published">
+        <section-ref unique-name="config.oembed.article.type.videoIngest" home-section="true"/>
+        <section-ref unique-name="config.oembed.article.type.videoIngest" home-section="true"/>
+        <section-ref unique-name="config.oembed.article.type.audioIngest"/>
+        <priority value="0"/>
+        <field name="title">video player</field>
+        <field name="enableesi">false</field>
+        <field name="widgetproperties">element.media.audioPlayer=
+element.media.videoPlayer=
+</field>
+    </content>
+</escenic>

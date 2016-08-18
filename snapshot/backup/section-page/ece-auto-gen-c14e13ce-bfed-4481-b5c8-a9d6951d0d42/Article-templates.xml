@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="c14e13ce-bfed-4481-b5c8-a9d6951d0d42" unique-name="config.oembed.article" name="Article templates" layout-name="config" action="remove">
+        <area name="outer"/>
+        <area name="header"/>
+        <area name="top"/>
+        <area name="main"/>
+        <area name="aside"/>
+        <area name="bottom"/>
+        <area name="footer"/>
+    </section-page>
+</escenic>

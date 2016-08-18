@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="b5c2b873-d8d2-41e8-9ce6-8116dae11bca" unique-name="config.oembed.tag.scheme.Widget" name="widget tag template" layout-name="oembed-config" action="remove">
+        <area name="oembed-config-area">
+            <options>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+            </options>
+        </area>
+    </section-page>
+</escenic>

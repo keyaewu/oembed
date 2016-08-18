@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="db81086d-f481-4753-b3ac-d307d8be4157" type="widget_heading" state="published">
+        <section-ref unique-name="config.oembed.article.type.event"/>
+        <section-ref unique-name="config.default.article.type.event" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">Page title</field>
+        <field name="headingsource">
+            <value>customText</value>
+        </field>
+        <field name="customtext">Event page Template</field>
+        <field name="widgetwrapper">
+            <value>h2</value>
+        </field>
+    </content>
+</escenic>

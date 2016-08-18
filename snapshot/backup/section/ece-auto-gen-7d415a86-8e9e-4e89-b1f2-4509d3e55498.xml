@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.default.section.event" source="ece-auto-gen" sourceid="7d415a86-8e9e-4e89-b1f2-4509d3e55498" name="Event page template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="83531e6d-06f3-4300-b3d1-3e8a7dd52427" unique-name="config.default.section"/>
+        <unique-name>config.default.section.event</unique-name>
+        <directory>Event_page_template</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

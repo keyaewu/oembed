@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="980a0d53-4075-48b2-813f-cdc0b6ee74af" type="widget_liveEntriesView" state="published">
+        <section-ref unique-name="config.oembed.article.type.event"/>
+        <section-ref unique-name="config.default.article.type.event" home-section="true"/>
+        <priority value="0"/>
+        <field name="title">event entries show on article page</field>
+        <field name="noofentries">4</field>
+        <field name="loadsettings">
+            <value>button</value>
+        </field>
+        <field name="evententrystyleclass">container</field>
+        <field name="topelements">
+            <value>
+                <title>Title</title>
+                <value>title</value>
+            </value>
+            <value>
+                <title>Author</title>
+                <value>author</value>
+            </value>
+            <value>
+                <title>TimeStamp</title>
+                <value>timestamp</value>
+            </value>
+        </field>
+        <field name="bodyelements">
+            <value>
+                <title>Body</title>
+                <value>body</value>
+            </value>
+            <value>
+                <title>Milestone</title>
+                <value>milestone</value>
+            </value>
+        </field>
+        <field name="elementsettings">
+            <value>
+                <field name="element">
+                    <title>Title</title>
+                    <value>title</value>
+                </field>
+                <field name="htmltag">
+                    <value>h3</value>
+                </field>
+                <field name="styleclass">text-muted</field>
+            </value>
+        </field>
+        <field name="enableesi">false</field>
+        <field name="widgetproperties">element.markup.class.authorPhoto=author-photo
+element.format.date.exactTime.publishedDate=dd MMM yyyy HH:mm zz
+element.markup.tag.author=p
+element.format.date.exactTime.createdDate=dd MMM yyyy HH:mm zz
+element.authorPhoto.link.show=true
+element.format.date.exactTime.lastModifiedDate=dd MMM yyyy HH:mm zz
+element.markup.tag.default=div
+element.markup.inline.close-link-style=inline-close
+element.markup.tag.timestamp=strong
+element.markup.tag.authorPhoto=div
+element.markup.class.author=author
+element.markup.class.default=
+</field>
+    </content>
+</escenic>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <content source="ece-auto-gen" sourceid="588c09e6-8385-4ea6-ba48-2cd30185359b" type="widget_liveEntriesView" state="published">
+        <section-ref unique-name="ece_incoming" home-section="true"/>
+        <relation type="instreamAdRelation" source="ece-auto-gen" sourceid="6173f039-d22e-4cd0-839a-9dd29dc3465d">
+            <field name="title">code widget</field>
+        </relation>
+        <priority value="0"/>
+        <field name="title">Liveentriesview</field>
+        <field name="noofentries">3</field>
+        <field name="loadsettings">
+            <value>button</value>
+        </field>
+        <field name="enableliveloading">true</field>
+        <field name="topelements">
+            <value>
+                <title>Author</title>
+                <value>author</value>
+            </value>
+            <value>
+                <title>Author Photo</title>
+                <value>authorPhoto</value>
+            </value>
+            <value>
+                <title>Body</title>
+                <value>body</value>
+            </value>
+            <value>
+                <title>Happening</title>
+                <value>happening</value>
+            </value>
+            <value>
+                <title>Milestone</title>
+                <value>milestone</value>
+            </value>
+            <value>
+                <title>TimeStamp</title>
+                <value>timestamp</value>
+            </value>
+            <value>
+                <title>Title</title>
+                <value>title</value>
+            </value>
+        </field>
+        <field name="enableesi">false</field>
+        <field name="widgetproperties">element.markup.class.authorPhoto=author-photo
+element.format.date.exactTime.publishedDate=dd MMM yyyy HH:mm zz
+element.markup.tag.author=p
+element.format.date.exactTime.createdDate=dd MMM yyyy HH:mm zz
+element.authorPhoto.link.show=true
+element.format.date.exactTime.lastModifiedDate=dd MMM yyyy HH:mm zz
+element.markup.tag.default=div
+element.markup.inline.close-link-style=inline-close
+element.markup.tag.timestamp=strong
+element.markup.tag.authorPhoto=div
+element.markup.class.author=author
+element.markup.class.default=
+</field>
+        <field name="enablead">
+            <value>enable</value>
+        </field>
+        <field name="frequency">1</field>
+    </content>
+</escenic>

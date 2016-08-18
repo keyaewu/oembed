@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="b7268325-d84f-4de3-8c6e-bf2d2e787051" unique-name="config.oembed.article.type.videoIngest" name="video page template" layout-name="oembed-config" action="remove">
+        <area name="oembed-config-area">
+            <options>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+            </options>
+            <group name="wrapperGroup" label="Wrapper">
+                <area name="wrapperGroup-area">
+                    <options>
+                        <field name="loadingpolicy">
+                            <value>onPage</value>
+                        </field>
+                    </options>
+                    <content-ref source="ece-auto-gen" sourceid="2a60b34f-0954-4705-855c-c4e3913836dc">
+                        <field name="title">video player</field>
+                        <options>
+                            <field name="loadingpolicy">
+                                <value>onPage</value>
+                            </field>
+                        </options>
+                    </content-ref>
+                </area>
+                <options>
+                    <field name="htmltag">
+                        <value>ul</value>
+                    </field>
+                    <field name="referable">false</field>
+                    <field name="customstyleclass">panel panel-default</field>
+                </options>
+            </group>
+        </area>
+    </section-page>
+</escenic>

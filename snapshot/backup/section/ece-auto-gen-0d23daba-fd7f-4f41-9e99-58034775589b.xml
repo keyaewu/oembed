@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.oembed.master" source="ece-auto-gen" sourceid="0d23daba-fd7f-4f41-9e99-58034775589b" name="master template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="6b707b61-b8fe-4979-b74f-def9ec2ccefa" unique-name="config.oembed"/>
+        <unique-name>config.oembed.master</unique-name>
+        <directory>master_template</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

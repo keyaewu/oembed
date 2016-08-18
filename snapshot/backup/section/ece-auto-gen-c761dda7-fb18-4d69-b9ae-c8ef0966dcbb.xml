@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.oembed.article.type.embedYoutube" source="ece-auto-gen" sourceid="c761dda7-fb18-4d69-b9ae-c8ef0966dcbb" name="embedYoutube page template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="c14e13ce-bfed-4481-b5c8-a9d6951d0d42" unique-name="config.oembed.article"/>
+        <unique-name>config.oembed.article.type.embedYoutube</unique-name>
+        <directory>config_oembed_article_type_embedYoutube</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>

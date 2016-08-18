@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section-page source="ece-auto-gen" sourceid="7edf168a-969f-4279-8be2-10e1c29b2a76" unique-name="config.default.article.type.event" name="Event Page Template" layout-name="config" action="remove">
+        <options>
+            <field name="asideposition">
+                <value>right</value>
+            </field>
+            <field name="area_split">
+                <value>8_4</value>
+            </field>
+        </options>
+        <area name="outer">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+            </options>
+        </area>
+        <area name="header">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>header</value>
+                </field>
+            </options>
+        </area>
+        <area name="top">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+                <field name="showtoparea">
+                    <value>true</value>
+                </field>
+            </options>
+            <content-ref source="ece-auto-gen" sourceid="db81086d-f481-4753-b3ac-d307d8be4157">
+                <field name="title">Page title</field>
+                <options>
+                    <field name="loadingpolicy">
+                        <value>onPage</value>
+                    </field>
+                </options>
+            </content-ref>
+        </area>
+        <area name="main">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>section</value>
+                </field>
+            </options>
+            <content-ref source="ece-auto-gen" sourceid="980a0d53-4075-48b2-813f-cdc0b6ee74af">
+                <options>
+                    <field name="loadingpolicy">
+                        <value>onPage</value>
+                    </field>
+                </options>
+            </content-ref>
+        </area>
+        <area name="aside">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>aside</value>
+                </field>
+            </options>
+        </area>
+        <area name="bottom">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>div</value>
+                </field>
+                <field name="showbottomarea">
+                    <value>true</value>
+                </field>
+            </options>
+        </area>
+        <area name="footer">
+            <options>
+                <field name="loadingpolicy">
+                    <value>onPage</value>
+                </field>
+                <field name="htmltag">
+                    <value>footer</value>
+                </field>
+            </options>
+        </area>
+    </section-page>
+</escenic>
